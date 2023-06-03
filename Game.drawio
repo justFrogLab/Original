@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T11:38:03.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gPtJL-2yFWjNSaEKIvgb" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T11:38:49.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="c3JW4FhH8bNj78erj--_" version="21.3.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2336" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,8 +181,14 @@
         <mxCell id="qGuW3kAqMhyCMjiLsScZ-65" value="New Room Object" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-80" y="900" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qGuW3kAqMhyCMjiLsScZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qGuW3kAqMhyCMjiLsScZ-68" target="qGuW3kAqMhyCMjiLsScZ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qGuW3kAqMhyCMjiLsScZ-68" value="Room Management System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qGuW3kAqMhyCMjiLsScZ-69" value="Get _ Index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-370" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
